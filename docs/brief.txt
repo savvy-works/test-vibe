@@ -1,6 +1,6 @@
-buatkan saya planning untuk phase 1 pada file /docs/roadmap_development.md
+buatkan saya planning untuk phase 2 pada file /docs/roadmap_development.md
 
-lokasi file : /docs/roadmap/phase-1-setup.md
+lokasi file : /docs/roadmap/phase-2-setup.md
 
 Gunakan hanya high level instruction yang jelas dan mudah dipahami.
 
