@@ -1,0 +1,7 @@
+buatkan saya planning untuk phase 1 pada file /docs/roadmap_development.md
+
+lokasi file : /docs/roadmap/phase-1-setup.md
+
+Gunakan hanya high level instruction yang jelas dan mudah dipahami.
+
+planning ini nntinya akan digunakan oleh model yang setara junior level programmer
